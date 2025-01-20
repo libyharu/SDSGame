@@ -3,7 +3,7 @@ import React from "react";
 type BackgroundProps = {
   children: React.ReactNode; // children을 명시적으로 정의
 };
-
+// df
 // any 를 사용하기 어려움
 //React에서 컴포넌트를 정의할 때 사용할 수 있는 TypeScript의 유틸리티 타입
 // const Background: React.FC<{ children: React.ReactNode }> = ({ children }) => {
