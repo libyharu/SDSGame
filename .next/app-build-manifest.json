@@ -1,0 +1,41 @@
+{
+  "pages": {
+    "/_not-found/page": [
+      "static/chunks/webpack-eb4659565b93adeb.js",
+      "static/chunks/4bd1b696-0af1034f9b7b4b4d.js",
+      "static/chunks/517-cb70e09b1d00b9a8.js",
+      "static/chunks/main-app-88568846452563d3.js",
+      "static/chunks/app/_not-found/page-65268efd86ee1b38.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-eb4659565b93adeb.js",
+      "static/chunks/4bd1b696-0af1034f9b7b4b4d.js",
+      "static/chunks/517-cb70e09b1d00b9a8.js",
+      "static/chunks/main-app-88568846452563d3.js",
+      "static/css/30097139ada38c10.css",
+      "static/chunks/app/layout-7092c3468fe1eace.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-eb4659565b93adeb.js",
+      "static/chunks/4bd1b696-0af1034f9b7b4b4d.js",
+      "static/chunks/517-cb70e09b1d00b9a8.js",
+      "static/chunks/main-app-88568846452563d3.js",
+      "static/chunks/970-e9e3cf02c5ba09ab.js",
+      "static/chunks/app/page-24b97ab1d829b18c.js"
+    ],
+    "/(test)/tests/(v01_sdsgame)/ssu/test01_test/page": [
+      "static/chunks/webpack-eb4659565b93adeb.js",
+      "static/chunks/4bd1b696-0af1034f9b7b4b4d.js",
+      "static/chunks/517-cb70e09b1d00b9a8.js",
+      "static/chunks/main-app-88568846452563d3.js",
+      "static/chunks/app/(test)/tests/(v01_sdsgame)/ssu/test01_test/page-7e3d32084fe7a214.js"
+    ],
+    "/(test)/tests/(v01_sdsgame)/ssu/test02_intro/page": [
+      "static/chunks/webpack-eb4659565b93adeb.js",
+      "static/chunks/4bd1b696-0af1034f9b7b4b4d.js",
+      "static/chunks/517-cb70e09b1d00b9a8.js",
+      "static/chunks/main-app-88568846452563d3.js",
+      "static/chunks/app/(test)/tests/(v01_sdsgame)/ssu/test02_intro/page-648f11d3c2017c45.js"
+    ]
+  }
+}

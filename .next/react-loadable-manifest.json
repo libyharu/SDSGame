@@ -1,0 +1,34 @@
+{
+  "..\\node_modules\\next\\dist\\client\\index.js -> ../pages/_app": {
+    "id": 5203,
+    "files": [
+      "static/chunks/203.2b4c1ee4fbe3a7cf.js"
+    ]
+  },
+  "..\\node_modules\\next\\dist\\client\\index.js -> ../pages/_error": {
+    "id": 6218,
+    "files": [
+      "static/chunks/218.57a830a2c55ba802.js"
+    ]
+  },
+  "app\\(test)\\tests\\(v01_sdsgame)\\ssu\\test01_test\\page.tsx -> ./comp/Background": {
+    "id": 4869,
+    "files": [
+      "static/chunks/869.65dd7edbcb202017.js"
+    ]
+  },
+  "app\\(test)\\tests\\(v01_sdsgame)\\ssu\\test01_test\\page.tsx -> ./comp/Borard": {
+    "id": 6161,
+    "files": [
+      "static/chunks/8f005c66.465788379fa9d876.js",
+      "static/chunks/161.5c9b8c8b325bf4bf.js"
+    ]
+  },
+  "app\\(test)\\tests\\(v01_sdsgame)\\ssu\\test02_intro\\page.tsx -> ./comp/ConverSation3": {
+    "id": 4320,
+    "files": [
+      "static/chunks/8f005c66.465788379fa9d876.js",
+      "static/chunks/320.20085234dec8a8de.js"
+    ]
+  }
+}
